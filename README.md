@@ -31,6 +31,10 @@ Tenho 24 anos, moro em Belém/PA e sou apaixonado por programação! Sou aventur
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "FIGMA"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
+          
+
+
 
 </br>
 </br>
