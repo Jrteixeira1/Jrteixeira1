@@ -8,7 +8,7 @@
     <img align="left" width="80px" src="./tiktok.svg" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/juniorteixeira1">
-    <img width="80px" src="./linkedin.svg" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="./linkedin.svg" alt="linkedin" style="vertical-align:top;" color="#4cebdf;">
   </a>
 </div>
 
