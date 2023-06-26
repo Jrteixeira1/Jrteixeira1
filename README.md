@@ -18,7 +18,7 @@
 
 ## Hello, Devs!!
 
-Tenho 24 anos, moro em Belém/PA e sou apaixonado por programação! Sou aventureiro no universo da programação e quanto mais eu aprendo mais passo raiva, mais eu amo tudo isso!  
+Tenho 24 anos, moro em Belém/PA e sou apaixonado por programação! Sou aventureiro no universo da programação e quanto mais eu aprendo mais passo raiva, mas eu amo tudo isso!  
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
