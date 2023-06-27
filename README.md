@@ -39,10 +39,11 @@ Tenho 24 anos, moro em Belém/PA e sou apaixonado por programação! Sou aventur
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🇧🇷 Sou militar da Força Aérea Brasileira</a>;</p>
+ <p align="left">🇧🇷 Sou militar da Força Aérea Brasileira;</p>
  <p align="left">📚 Tenho estudado HTML,CSS e JavaScript e iniciei meus estudos na formação Front-end da <a href="https://www.alura.com.br/">Alura.</a></p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/_jrteixeira_">Instagram</a> e no <a href="https://tiktok.com/jrtx17">Tiktok</a>. Segue lá e vem bater um papo!</p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">👨🏻‍💻Fiz um pequeno portfólio que esta em constantes mudanças pois gosto de testar nele as mais diversas modificações conforme aprendo mais, da uma conferida <a href="https://apresentacao-omega.vercel.app/">Meu Site</a>;</p>
 </div>
 
 
